@@ -20,9 +20,11 @@ SLACK_WEBHOOK=<incoming_webhook_url>
 ### macOS
 
 // TODO
+
 [stackoverflow link](https://stackoverflow.com/a/9523030/1603771) for a headstart to a manual setup.
 
 ### Linux
 
 // TODO
+
 [stackoverflow link](https://stackoverflow.com/a/1603138/1603771) for a headstart to a manual setup.
